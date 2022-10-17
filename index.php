@@ -8,6 +8,7 @@
 </head>
 <body>
 <?php 
+<h1>九九乘法表</h1>
 for($j=1;$j<=9;$j++){
     echo '<tr>';
     for($i=1;$i<=9;$i++){
